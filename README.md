@@ -22,4 +22,5 @@ Open `STBCP.ipynb` to evaluate the framework and reproduce the paper's findings.
     1.  Automatically exported to the `weights/` folder by running `train_main.ipynb`.
     2.  Manually downloaded and placed in the appropriate directory.
 * **Output**: This script will compute the transformed non-conformity scores and generate result visualizations (saved in the `fig/` directory).
+---
 *Note: Directories for `weights/`, `logs/`, and `fig/` will be created automatically upon running the notebooks.*
