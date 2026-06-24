@@ -1,6 +1,6 @@
-# ST-BCP: Tightening Coverage Bound for Backward Conformal Prediction via Non-Conformity Score Transformation
+# Improving Backward Conformal Prediction via Non-Conformity Score Transformation
 
-This repository provides the official implementation for the paper **"ST-BCP"**. It includes the complete pipeline for model training and the reproduction of all experimental results presented in the paper.
+This is the official implementation for the paper **["Improving Backward Conformal Prediction via Non-Conformity Score Transformation"](https://arxiv.org/abs/2602.01733)** at ICML 2026. It includes the complete pipeline for model training and the reproduction of all experimental results presented in the paper.
 
 ## Repository Structure
 
